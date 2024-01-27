@@ -1,1 +1,1 @@
-CFLAGS=-std=c89 -pedantic-errors -Wall -W -Werror
+CFLAGS=-std=c89 -Ofast -march=native -Wall -Wextra -Werror -pedantic-errors
